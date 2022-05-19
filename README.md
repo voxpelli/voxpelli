@@ -15,7 +15,7 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
   * 🤝 Helping out with co-maintenance in the [StandardJS](https://github.com/standard) project
   * 👷 Maintaining [my own NPM modules](http://npmjs.com/~voxpelli)
   * 📣 Promoting the use of [types in JS](https://github.com/voxpelli/types-in-js)
-* 🧱 Experimenting with 3D printing
+* 🧱 Experimenting with 3D printing: [@yikesableprints](https://www.instagram.com/yikesableprints/)
 
 **BIO**
 
