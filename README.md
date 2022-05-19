@@ -1,9 +1,10 @@
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
+[![Types in JS](https://img.shields.io/badge/types_in_js-yes-FF057C)](https://github.com/voxpelli/types-in-js)
+
+
 ### Hi there 👋
 
 I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open source contributor from Malmö, Sweden 🇸🇪
-
-[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
-[![Types in JS](https://img.shields.io/badge/types_in_js-yes-FF057C)](https://github.com/voxpelli/types-in-js)
 
 **NOW**
 
