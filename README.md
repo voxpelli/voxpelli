@@ -1,7 +1,3 @@
-[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
-[![Types in JS](https://img.shields.io/badge/types_in_js-yes-FF057C)](https://github.com/voxpelli/types-in-js)
-
-
 ### Hi there 👋
 
 I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open source contributor from Malmö, Sweden 🇸🇪
@@ -32,3 +28,6 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 * [voxpelli/renovate-config-voxpelli](https://github.com/voxpelli/renovate-config-voxpelli/blob/main/package.json) - my personal [Renovate bot](https://docs.renovatebot.com) config (I pick Renovate over Dependabot for this one reason)
 
 _Profile inspired by [@caneco](https://github.com/caneco/)'s_
+
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
+[![Types in JS](https://img.shields.io/badge/types_in_js-yes-FF057C)](https://github.com/voxpelli/types-in-js)
