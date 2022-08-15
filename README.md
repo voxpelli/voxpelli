@@ -5,18 +5,20 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 **NOW**
 
 * 🏢 Freelancing through my own company [Yikesable](https://yikesable.dev), inserting "Yikes, that's awesome!" into people's lifes through:
+  * ❤️ Contracting for [@feross](https://github.com/feross), [@bcomnes](https://github.com/bcomnes/) and crew on [Socket.dev](https://socket.dev), making the dependency ecosystem a safer place
   * ❤️ Contracting for Google on browser compatibility
-  * ❤️ Helping [OmMej](https://www.ommej.se) out with making the voices of children heard
   * 🤓 Doing my own projects
 * :octocat: Contributing to open source by:
-  * 🤝 Helping out with co-maintenance in the [StandardJS](https://github.com/standard) project
-  * 👷 Maintaining [my own NPM modules](http://npmjs.com/~voxpelli)
+  * 🤝 Helping out co-maintaining the [StandardJS](https://github.com/standard) project
+  * :rotating_light: Maintaining the main Error Cause ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
   * 📣 Promoting the use of [types in JS](https://github.com/voxpelli/types-in-js)
+  * 👷 Maintaining a bunch of [other NPM modules](http://npmjs.com/~voxpelli)
 * 🧱 Experimenting with 3D printing at [@yikesableprints](https://www.instagram.com/yikesableprints/)
 
 **BIO**
 
 * ⚙️ I use daily: .js, .html, .css
+* :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
 * ✍️ Where I share content: Mainly [my Twitter](https://twitter.com/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
 * 📫 How to reach me: [@voxpelli on Twitter](https://twitter.com/@voxpelli)
