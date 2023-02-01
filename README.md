@@ -6,7 +6,6 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 
 * 🏢 Freelancing through my own company [Yikesable](https://yikesable.dev), inserting "Yikes, that's awesome!" into people's lifes through:
   * ❤️ Contracting for [@feross](https://github.com/feross), [@bcomnes](https://github.com/bcomnes/) and crew on [Socket.dev](https://socket.dev), making the dependency ecosystem a safer place
-  * ❤️ Contracting for Google on browser compatibility
   * 🤓 Doing my own projects
 * :octocat: Contributing to open source by:
   * 🤝 Helping out co-maintaining the [StandardJS](https://github.com/standard) project
