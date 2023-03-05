@@ -18,8 +18,8 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 * ⚙️ I use daily: .js, .html, .css
 * :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
-* ✍️ Where I share content: Mainly [my Twitter](https://twitter.com/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
-* 📫 How to reach me: [@voxpelli on Twitter](https://twitter.com/@voxpelli)
+* ✍️ Where I share content: Mainly [my Mastodon](https://mastodon.social/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
+* 📫 How to reach me: [@voxpelli on Mastodon](https://mastodon.social/@voxpelli)
 
 **RESOURCES**
 
