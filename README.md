@@ -5,7 +5,7 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 **NOW**
 
 * 🏢 Freelancing through my own company [Yikesable](https://yikesable.dev), inserting "Yikes, that's awesome!" into people's lifes through:
-  * ❤️ Contracting for [@feross](https://github.com/feross), [@bcomnes](https://github.com/bcomnes/) and crew on [Socket.dev](https://socket.dev), making the dependency ecosystem a safer place
+  * ❤️ Contracting for awesome companies and friends
   * 🤓 Doing my own projects
 * :octocat: Contributing to open source by:
   * :rotating_light: Maintaining the main Error Cause ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
