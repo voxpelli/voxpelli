@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open source contributor from Malmö, Sweden 🇸🇪
+I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open source contributor from Malmö, Sweden 🇸🇪
 
 **NOW**
 
@@ -18,6 +18,7 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 * ⚙️ I use daily: .js, .html, .css
 * :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
+* 💻 Main stack: Been using Node.js since version `0.1.x` in 2009 and its still my primary tool (before that it was PHP)
 * ✍️ Where I share content: Mainly [my Mastodon](https://mastodon.social/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
 * 📫 How to reach me: [@voxpelli on Mastodon](https://mastodon.social/@voxpelli)
 
@@ -25,6 +26,4 @@ I'm Pelle, a front-end / back-end / full-stack / friendly web developer and open
 
 * [voxpelli/eslint-config](https://github.com/voxpelli/eslint-config) - my personal [semistandard](https://github.com/standard/semistandard) based ESLint config (with full description of all additions and the one or two non-standard changes)
 * [voxpelli/tsconfig](https://github.com/voxpelli/tsconfig) - my personal TypeScript config that I use for all of my [types in JS](https://github.com/voxpelli/types-in-js) projects
-* [voxpelli/renovate-config-voxpelli](https://github.com/voxpelli/renovate-config-voxpelli/blob/main/package.json) - my personal [Renovate bot](https://docs.renovatebot.com) config (I pick Renovate over Dependabot for this one reason)
-
-_Profile inspired by [@caneco](https://github.com/caneco/)'s_
+* [voxpelli/renovate-config](https://github.com/voxpelli/renovate-config) - my personal [Renovate bot](https://docs.renovatebot.com) config (this configurability is why I pick Renovate over Dependabot)
