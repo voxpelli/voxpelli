@@ -18,7 +18,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 * ⚙️ I use daily: .js, .html, .css
 * :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
-* 💻 Main stack: Been using Node.js since version `0.1.x` in 2009 and its still my primary tool (before that it was PHP)
+* 💻 Main stack: Been using [Node.js](https://nodejs.org/) since version [`0.1.x`](https://github.com/nodejs/node/releases/tag/v0.1.18) [in 2009](https://github.com/voxpelli/djangode/commit/d3814342ebc5b1a727cca94e74ed264736241556) and its still my primary tool (before that it was PHP)
 * ✍️ Where I share content: Mainly [my Mastodon](https://mastodon.social/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
 * 📫 How to reach me: [@voxpelli on Mastodon](https://mastodon.social/@voxpelli)
 
