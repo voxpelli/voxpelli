@@ -10,7 +10,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 * :octocat: Contributing to open source by:
   * :rotating_light: Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
   * 🤝 Being part of the official [ESLint Community](https://github.com/eslint-community) Core Team
-  * 📣 Promoting the use of [types in JS](https://github.com/voxpelli/types-in-js)
+  * 📣 Promoting the use of [types in javascript](https://github.com/voxpelli/types-in-js)
   * 👷 Maintaining a bunch of other [NPM modules](http://npmjs.com/~voxpelli)
 * 🧱 Doing 3D printing experiments at [@yikesableprints](https://www.instagram.com/yikesableprints/)
 * 🏫 Doing some studies at university
