@@ -26,6 +26,6 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **RESOURCES**
 
-* [voxpelli/eslint-config](https://github.com/voxpelli/eslint-config) - my personal [semistandard](https://github.com/standard/semistandard) based ESLint config superset (with full list of everything that makes it differ from `semistandard`)
+* [voxpelli/eslint-config](https://github.com/voxpelli/eslint-config) - my [semistandard](https://github.com/standard/semistandard) based ESLint config superset (with all changes over `semistandard` documented)
 * [voxpelli/tsconfig](https://github.com/voxpelli/tsconfig) - my personal TypeScript config that I use for all of my [types in JS](https://github.com/voxpelli/types-in-js) projects
 * [voxpelli/renovate-config](https://github.com/voxpelli/renovate-config) - my personal [Renovate bot](https://docs.renovatebot.com) config (this configurability is why I pick Renovate over Dependabot)
