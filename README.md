@@ -4,14 +4,16 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **NOW**
 
-* 🏢 Freelancing through my own company [Yikesable](https://yikesable.dev), inserting "Yikes, that's awesome!" into people's lifes through:
+* 🏢 Freelancing through my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)), creating the "Yikes, that's awesome!" of people's lifes
   * ❤️ Contracting for awesome companies and friends
-  * 🤓 Doing my own projects
+  * 🤓 Working on some stealthy projects of my own
 * :octocat: Contributing to open source by:
-  * :rotating_light: Maintaining the main Error Cause ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
+  * :rotating_light: Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
+  * 🤝 Being part of the official [ESLint Community](https://github.com/eslint-community) Core Team
   * 📣 Promoting the use of [types in JS](https://github.com/voxpelli/types-in-js)
-  * 👷 Maintaining a bunch of [NPM modules](http://npmjs.com/~voxpelli)
-* 🧱 Experimenting with 3D printing at [@yikesableprints](https://www.instagram.com/yikesableprints/)
+  * 👷 Maintaining a bunch of other [NPM modules](http://npmjs.com/~voxpelli)
+* 🧱 Doing 3D printing experiments at [@yikesableprints](https://www.instagram.com/yikesableprints/)
+* 🏫 Doing some studies at university
 
 **BIO**
 
@@ -24,6 +26,6 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **RESOURCES**
 
-* [voxpelli/eslint-config](https://github.com/voxpelli/eslint-config) - my personal [semistandard](https://github.com/standard/semistandard) based ESLint config (with full description of all additions and the one or two non-standard changes)
+* [voxpelli/eslint-config](https://github.com/voxpelli/eslint-config) - my personal [semistandard](https://github.com/standard/semistandard) based ESLint config superset (with full list of everything that makes it differ from `semistandard`)
 * [voxpelli/tsconfig](https://github.com/voxpelli/tsconfig) - my personal TypeScript config that I use for all of my [types in JS](https://github.com/voxpelli/types-in-js) projects
 * [voxpelli/renovate-config](https://github.com/voxpelli/renovate-config) - my personal [Renovate bot](https://docs.renovatebot.com) config (this configurability is why I pick Renovate over Dependabot)
