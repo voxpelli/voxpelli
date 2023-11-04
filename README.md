@@ -9,7 +9,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
   * 🤓 Working on some stealthy projects of my own
 * :octocat: Contributing to open source by:
   * 👷 Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
-  * 🤝 Maintaining [Mocha](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
+  * 🤝 Maintaining [`mocha`](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
   * 🤝 Being part of the official [ESLint Community](https://github.com/eslint-community) Core Team
   * 📣 Promoting the use of [types in javascript](https://github.com/voxpelli/types-in-js)
   * 👷 Maintaining a bunch of other [NPM modules](http://npmjs.com/~voxpelli)
