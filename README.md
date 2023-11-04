@@ -4,11 +4,12 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **NOW**
 
-* 🏢 Freelancing through my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)), creating the "Yikes, that's awesome!" of people's lifes
+* 🏢 Freelancing through my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)), creating the "Yikes, that's awesome!" of people's lifes by:
   * ❤️ Contracting for awesome companies and friends
   * 🤓 Working on some stealthy projects of my own
 * :octocat: Contributing to open source by:
-  * :rotating_light: Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
+  * 👷 Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
+  * 🤝 Maintaining [Mocha](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
   * 🤝 Being part of the official [ESLint Community](https://github.com/eslint-community) Core Team
   * 📣 Promoting the use of [types in javascript](https://github.com/voxpelli/types-in-js)
   * 👷 Maintaining a bunch of other [NPM modules](http://npmjs.com/~voxpelli)
@@ -18,7 +19,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 **BIO**
 
 * ⚙️ I use daily: .js, .html, .css
-* :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git
+* :floppy_disk: I prefer my data in: Postgres with jsonb columns, plain files in git, [microformatted](http://microformats.org/) html
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
 * 💻 Main stack: Been using [Node.js](https://nodejs.org/) since version [`0.1.x`](https://github.com/nodejs/node/releases/tag/v0.1.18) [in 2009](https://github.com/voxpelli/djangode/commit/d3814342ebc5b1a727cca94e74ed264736241556) and its still my primary tool (before that it was PHP)
 * ✍️ Where I share content: Mainly [my Mastodon](https://mastodon.social/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
