@@ -4,7 +4,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **NOW**
 
-* 🏢 Founding Engineer at [WorkTiles]([https://yikesable.dev](https://www.worktiles.se/))
+* 🏢 Founding Engineer at [WorkTiles](https://www.worktiles.se/)
 * :octocat: Contributing to open source by:
   * 👷 Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
   * 🤝 Maintaining [`mocha`](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
