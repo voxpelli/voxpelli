@@ -4,11 +4,13 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **NOW**
 
-* 🏢 Founding Engineer at [WorkTiles](https://www.worktiles.se/)
+* 🏢 Freelancing through my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)), creating the "Yikes, that's awesome!" of people's lifes by:
+  * :heart: Contracting for awesome companies and friends
+  * 🤓 Working on some stealthy projects of my own
 * :octocat: Contributing to open source by:
-  * 👷 Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
   * 🤝 Maintaining [`mocha`](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
   * 🤝 Being part of the official [ESLint Community](https://github.com/eslint-community) Core Team
+  * 👷 Maintaining the main Error Cause helper collection and ponyfill: [`pony-cause`](https://github.com/voxpelli/pony-cause)
   * 📣 Promoting the use of [types in javascript](https://github.com/voxpelli/types-in-js)
   * 👷 Maintaining a bunch of other [NPM modules](http://npmjs.com/~voxpelli)
 * 🧱 Doing 3D printing experiments at [@yikesableprints](https://www.instagram.com/yikesableprints/)
