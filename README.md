@@ -13,7 +13,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
   * 🤝 Maintaining [`mocha`](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
   * 🤝 Co-maintaining the [`npm-run-all2`](https://github.com/bcomnes/npm-run-all2) fork of [`npm-run-all`](https://github.com/mysticatea/npm-run-all) by [@bcomnes](https://github.com/bcomnes)
   * 🤝 Co-maintaining the [`type-fest`](https://github.com/sindresorhus/type-fest) module by [@sindresorhus](https://github.com/sindresorhus)
-  * 🗃️ Member of the official [ESLint Community](https://github.com/eslint-community) Core Team + co-maintaining its modules
+  * 🗃️ Part of the [ESLint Community](https://github.com/eslint-community) Core Team + co-maintaining its modules
   * 📣 Promoting the use of [types in javascript](https://github.com/voxpelli/types-in-js)
   * 👷 Maintaining a bunch of [my own NPM modules](http://npmjs.com/~voxpelli)
 * 🧱 Doing 3D printing experiments at [@yikesableprints](https://www.instagram.com/yikesableprints/)
