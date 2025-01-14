@@ -5,7 +5,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 **NOW**
 
 * 🏢 Working at the web agency [040](https://040.se/), helping out creating lovely web experiences for our customers and beyond.
-* 🏢 Have my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)) for side projects, time permitting:
+* 🏢 Still keeping my own company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)) for side projects, time permitting:
   * :octocat: Doing sponsored work on open source projects
   * 🤓 Dreaming about some stealthy projects of my own
 * :octocat: Contributing to open source by:
