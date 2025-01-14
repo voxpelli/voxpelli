@@ -4,10 +4,10 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 
 **NOW**
 
-* 🏢 Freelancing through my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)), creating the "Yikes, that's awesome!" of people's lifes by:
-  * :heart: Contracting for awesome companies and friends
+* 🏢 Working at the web agency [040](https://040.se/), helping out creating lovely web experiences for our customers and beyond.
+* 🏢 Have my company [Yikesable](https://yikesable.dev) ([@yikesable](https://github.com/yikesable)) for side projects, time permitting:
   * :octocat: Doing sponsored work on open source projects
-  * 🤓 Working on some stealthy projects of my own
+  * 🤓 Dreaming about some stealthy projects of my own
 * :octocat: Contributing to open source by:
   * 🤝 Running the [`neostandard`](https://github.com/neostandard/neostandard) ESLint config together with [@bcomnes](https://github.com/bcomnes), [@mcollina](https://github.com/mcollina) and [@wesleytodd](https://github.com/wesleytodd)
   * 🤝 Maintaining [`mocha`](https://github.com/mochajs/mocha) together with [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) and [@Uzlopak](https://github.com/Uzlopak)
