@@ -25,7 +25,7 @@ I'm Pelle, a back-end / front-end / full-stack / friendly web developer and open
 * 🔭 Principles I love: Progressive enhancement, Plain old semantic HTML, Extendible Web
 * 💻 Main stack: Been using [Node.js](https://nodejs.org/) since version [`0.1.x`](https://github.com/nodejs/node/releases/tag/v0.1.18) [in 2009](https://github.com/voxpelli/djangode/commit/d3814342ebc5b1a727cca94e74ed264736241556) and its still my primary tool (before that it was PHP)
 * ✍️ Where I share content: Mainly [my Bluesky](https://bsky.app/profile/voxpelli.com), [my Mastodon](https://mastodon.social/@voxpelli) and [my blog](https://voxpelli.com/) (subscribe to my [english RSS feed](https://voxpelli.com/english.xml))
-* 📫 How to reach me: [voxpelli.com on Bluesky](https://bsky.app/profile/voxpelli.com) and [@voxpelli@mastodon.social](https://mastodon.social/@voxpelli) in the Fediverse
+* 📫 How to reach me: [@voxpelli.com](https://bsky.app/profile/voxpelli.com) on Bluesky and [@voxpelli@mastodon.social](https://mastodon.social/@voxpelli) in the Fediverse
 
 **RESOURCES**
 
